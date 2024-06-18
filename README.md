@@ -13,7 +13,7 @@
 - 📫 How to reach me? **shyam164825@gmail.com**
 
 <h1 align="left"> Want to see my Projects? </h1>
-=> [https://github.com/HwuShyam2005?tab=repositories](https://github.com/HwuShyam2005?tab=repositories)
+=> https://github.com/HwuShyam2005?tab=repositories
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
