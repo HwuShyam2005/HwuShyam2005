@@ -8,16 +8,19 @@
 <h1 align="center">My Profile Count View </h1>
 
 
-###
 
-
-- 📫 How to reach me? Gmail=>**shyam164825@gmail.com**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shyamsundarvelmurugan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyamsundarvelmurugan/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/py_04_2005/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/py_04_2005/?hl=en" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shyamsundarvelmurugan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyamsundarvelmurugan/" height="30" width="40" />Linkedin</a>
+<br>
+
+<a href="https://instagram.com/https://www.instagram.com/py_04_2005/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/py_04_2005/?hl=en" height="30" width="40" />Instagram</a>
+
+📧**shyam164825@gmail.com**
+
 </p>
+
 
 <h1 align="left">My Status:</h1>
 <div align="center">
