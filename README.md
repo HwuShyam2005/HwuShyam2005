@@ -1,12 +1,11 @@
-<h2 align="center">Hello Everyone 👋 </h2>
-<h2 align="center">I'm Shyam Sundar Velmurugan </h2>
+![Header](github-header-image.png)
+
 <h2 align="center">An Undergraduate Student in Heriot Watt University</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/HwuShyam2005/count.svg?"  />
 </div>
-<h2 align="center">My Profile Count View </h2>
-
+<h2 align="left">My Profile Count View </h2>
 
 
 
